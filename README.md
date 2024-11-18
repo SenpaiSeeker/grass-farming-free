@@ -65,3 +65,8 @@ python grass.py
 ## USE AT UR OWN RISK
 ## MORE UPDATES TO THIS SCRIPT WILL BE MADE TO MAKE IT LESS VULNERABLE 
 
+
+# [FOR UPDATES JOIN](https://t.me/meowdrophunt)
+# [Password](https://t.me/meowdrophunt).
+
+
