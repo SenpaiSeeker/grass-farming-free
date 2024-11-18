@@ -67,6 +67,6 @@ python grass.py
 
 
 # [FOR UPDATES JOIN](https://t.me/meowdrophunt)
-# [Password](https://t.me/meowdrophunt).
+# [Password](https://t.me/meowdrophunt)
 
 
