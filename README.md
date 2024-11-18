@@ -1,5 +1,5 @@
 # BOT GRASS AUTO FARMING
-USE AT UR OWN RISK 
+## USE AT UR OWN RISK 
 I AM NOT RESPONSIBE FOR THE OUTCOME
 
 ```
@@ -10,6 +10,9 @@ venv\scripts\activate
 ```
 ```
 pip install -r requirements.txt
+```
+```
+python grass.py
 ```
 Or 
 
@@ -31,11 +34,9 @@ pip install fake_useragent
 pip install websockets_proxy
 ```
 ```
-python localgrassnode.py
+python grass.py
 ```
-```
-python localgrasslite.py
-```
+
 
 # How to get userid grassTo login to the Grass website and use the inspect feature, follow these steps:
 
